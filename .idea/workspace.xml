@@ -5,15 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a10397f7-ede0-48eb-9194-bc153a9c3fb5" name="Changes" comment="git commit -m &quot;Iniciando creacion de conversor de moneda&quot;">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/eclipsesource_jaxrs_provider_gson.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/conversorMoneda/APICliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/conversorMoneda/CurrencyConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ConversorDeMoneda.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ConversorDeMoneda.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +48,8 @@
     "last_opened_file_path": "C:/Users/garci/OneDrive/Desktop/Uni/Alura Oracle/Back-EndLatam/Proyectos/ConversorDeMoneda",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="QodanaHighlightedReportService">
