@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a10397f7-ede0-48eb-9194-bc153a9c3fb5" name="Changes" comment="git commit -m &quot;Iniciando creacion de conversor de moneda&quot;">
+    <list default="true" id="a10397f7-ede0-48eb-9194-bc153a9c3fb5" name="Changes" comment="touch README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,21 +49,9 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
-  <component name="QodanaHighlightedReportService">
-    <option name="localRunNotPublishedPersistedInfo">
-      <LocalReportPersistedInfo>
-        <option name="path" value="C:\Users\garci\AppData\Local\Temp\qodana_output\qodana.sarif.json" />
-        <option name="reportGuid" value="d2411bac-9776-4e75-a6f3-b2e4ce592642" />
-        <option name="reportName" value="ConversorDeMoneda/qodana/2024-10-11" />
-      </LocalReportPersistedInfo>
-    </option>
-  </component>
-  <component name="QodanaIsSelectedPersistenceService">
-    <option name="selectedOrLoading" value="true" />
-  </component>
   <component name="QodanaReportsService">
     <option name="descriptions">
       <ReportDescription localRun="true" path="C:\Users\garci\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="d2411bac-9776-4e75-a6f3-b2e4ce592642" reportId="ConversorDeMoneda/qodana/2024-10-11" />
